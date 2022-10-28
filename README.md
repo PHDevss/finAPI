@@ -2,6 +2,7 @@
  Este projeto foi desenvolvido junto com a Rocketseat. Ele é uma simples API de
 um banco com as funcionalidades descritas abaixo.
 
+## Itens de projeto
 ### Requisitos
 
 - [x] Deve ser possível criar uma conta
@@ -25,8 +26,14 @@ um banco com as funcionalidades descritas abaixo.
 - [x] Não deve ser possível fazer saque quando o saldo for insuficiente
 - [x] Deve ser possível retornar o balanço da account
 
+## Tecnologias utilizadas
+<ul>
+<li>Typescript</li>
+<li>Express</li>
+<li>Prettier</li>
+</ul>
 
-:heavy_check_mark: ## Documentação da API
+## :heavy_check_mark: Documentação da API
 
 ### Cadastra usuário
 
@@ -158,7 +165,7 @@ um banco com as funcionalidades descritas abaixo.
 | `name` | `string` | **Obrigatório**|
 
 #### Retorna status 201
-:file_folder: ## Instalando e rodando localmente
+## :file_folder: Instalando e rodando localmente
 
 Clone o projeto
 
